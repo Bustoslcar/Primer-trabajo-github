@@ -49,7 +49,7 @@ individuos motivados.
 ● La atención continua a la excelencia técnica y al buen diseño mejora la Agilidad.
 
 
-###*Tema 3*
+### *Tema 3*
 SCRUM:Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos,a la vez que se entregan productos de forma 
 eficiente y creativa con el máximo valor. Es una enfoque ágil para la gestión de un proyecto
 ● Utiliza procesos interactivos/incrementales.
@@ -61,7 +61,24 @@ cascada es un proceso de desarrollo secuencial, en el que el desarrollo de softw
 Se le denomina así por las posiciones que ocupan las diferentes fases que componen el proyecto, colocadas una encima de otra,y siguiendo un flujo de ejecución
 de arriba hacia abajo.)
 
-###*Tema4*
+### *Tema 4*
+¿Que es git hub?: GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git. 
+El código se almacena de forma pública, aunque también se puede hacer de forma privada.
+
+¿Git y git hub son lo mismo?:La diferencia principal entre Git y GitHub es que Git es una herramienta de código abierto que los desarrolladores instalan 
+localmentepara gestionar el código fuente, mientras que GitHub es un servicio en línea al que los desarrolladores que utilizan Git pueden conectarse 
+y cargar o descargar recursos.
+
+Git es un sistema de control de versiones, lo que eso significa realmente es que Git nos ayuda a gestionar nuestros archivos de proyecto. 
+Una de las cosas principales que hace Git y también la razón principal por la que existe es para mantener un registro de toda la historia de las 
+cosas en las que estás trabajando.
+
+Esto es útil para los desarrolladores porque cuando estás trabajando en un proyecto primero construyes una versión básica y luego tratas de mejorarlo  
+añadiendo nuevas características o simplemente experimentando con las cosas. Todo este proceso de experimentar con nuevas características es increíblemente 
+propenso a errores y es posible que desee volver a su código original.
+
+Aquí es donde el control de versiones entra en juego, realiza un seguimiento automático de cada minuto de cambio en tu proyecto y nos permite volver a
+una versión anterior sin importar cuántas veces haya cambiado sus archivos.
 
 
 
