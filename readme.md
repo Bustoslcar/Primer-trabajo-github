@@ -1,3 +1,3 @@
-trabajo practico :
-integrantes del grupo:
+#Trabajo practico :
+Integrantes del grupo:
 
