@@ -20,5 +20,5 @@ print("la suma es: ", sum)
 
 
 print("Aquí Carla Antonini presente")
-print("Acá Alfaro Romina)
+print("Acá Alfaro Romina")
       
