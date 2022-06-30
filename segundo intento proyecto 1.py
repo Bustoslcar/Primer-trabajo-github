@@ -7,3 +7,4 @@ print("Primer programa en python")
 
 print ("no se nada D:")
 print (" tampoco yo")
+print("vamo")
