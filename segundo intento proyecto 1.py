@@ -6,3 +6,4 @@ print("Primer programa en python")
 
 
 print ("no se nada D:")
+print (" ta,poco yo")
