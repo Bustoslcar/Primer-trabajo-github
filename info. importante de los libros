@@ -1,0 +1,84 @@
+# TEMAS IMPORTANTES DE LOS LIBROS.
+#### En este archivo se veran los temas q consideramos mas inportantes del bloque 1.
+
+### *tema 1*
+
+*El SOFTWARE*:Es uno de los primer conceptos que se aprenden (junto con el hardware)cuando se quiere aprender a programar o incluso aprender sobre algo que tenga que
+ver sobre la tecnologia.
+El software son los programas, los documentos asociados y la configuración de datos que se necesitan para hacer que estos programas operen de manera correcta es la 
+parte de un sistema que se puede codificar para ejecutarse en una computadora como un conjunto de instrucciones. Incluye la documentación asociada necesaria para
+comprender, transformar y usar esa solución.
+
+*caracteristicas del software*:
+● Es intangible.
+● Tiene alto contenido Intelectual.
+● Su proceso de desarrollo es 
+humano intensivo, basado en 
+equipos y construidos en 
+proyectos.
+● Puede ser potencialmente 
+modificado, en forma 
+permanente. 
+● El software no se manufactura, 
+se desarrolla.
+● No se desgasta.
+● A pesar de la tendencia de la 
+industria a desarrollar por 
+componentes, gran
+parte del software aún se 
+construye a medida.
+
+### *Tema 2*
+AGILE:Es una ideología con un conjunto definido de principios que guían al desarrollo de un producto:
+
+*Algunos Principios agile*
+
+● Colaboración estrecha con el cliente,Predisposición y respuesta al cambio,comunicacion verbal directa.
+
+● Desarrollo incremental con entregas frecuentes de funcionalidad.Motivación, compromiso y responsabilidad del equipo por la auto gestión, auto-organización.
+
+● satisfacer al cliente mediante la entrega temprana y continua de software con valor. (Entrega de software funcional frecuentemente, entre 2 semanas y 2 meses.)
+
+● Los responsables de negocio y los desarrolladores trabajamos juntos de forma cotidiana durante todo el proyecto, Los proyectos se desarrollan en torno a 
+individuos motivados. 
+
+● El método más eficiente y efectiva de comunicar información al equipo de desarrollo  es la conversación cara a cara.
+
+● El software funcionando es la medida principal de progreso.
+
+● La atención continua a la excelencia técnica y al buen diseño mejora la Agilidad.
+
+
+### *Tema 3*
+SCRUM:Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos,a la vez que se entregan productos de forma 
+eficiente y creativa con el máximo valor. Es una enfoque ágil para la gestión de un proyecto
+● Utiliza procesos interactivos/incrementales.
+
+● Orientado a resultados y compromisos.
+● No está restringido a proyectos de software solamente.
+● Su visión es opuesta a la propuesta por la metodología en cascada.(Los equipos de scrum hacen un poco de todo todo el tiempo mientras que la metodologia en 
+cascada es un proceso de desarrollo secuencial, en el que el desarrollo de software se concibe como un conjunto de etapas que se ejecutan una tras otra. 
+Se le denomina así por las posiciones que ocupan las diferentes fases que componen el proyecto, colocadas una encima de otra,y siguiendo un flujo de ejecución
+de arriba hacia abajo.)
+
+### *Tema 4*
+¿Que es git hub?: GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git. 
+El código se almacena de forma pública, aunque también se puede hacer de forma privada.
+
+¿Git y git hub son lo mismo?:La diferencia principal entre Git y GitHub es que Git es una herramienta de código abierto que los desarrolladores instalan 
+localmentepara gestionar el código fuente, mientras que GitHub es un servicio en línea al que los desarrolladores que utilizan Git pueden conectarse 
+y cargar o descargar recursos.
+
+Git es un sistema de control de versiones, lo que eso significa realmente es que Git nos ayuda a gestionar nuestros archivos de proyecto. 
+Una de las cosas principales que hace Git y también la razón principal por la que existe es para mantener un registro de toda la historia de las 
+cosas en las que estás trabajando.
+
+Esto es útil para los desarrolladores porque cuando estás trabajando en un proyecto primero construyes una versión básica y luego tratas de mejorarlo  
+añadiendo nuevas características o simplemente experimentando con las cosas. Todo este proceso de experimentar con nuevas características es increíblemente 
+propenso a errores y es posible que desee volver a su código original.
+
+Aquí es donde el control de versiones entra en juego, realiza un seguimiento automático de cada minuto de cambio en tu proyecto y nos permite volver a
+una versión anterior sin importar cuántas veces haya cambiado sus archivos.
+
+
+
