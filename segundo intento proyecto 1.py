@@ -21,7 +21,7 @@ print("la suma es: ", sum)
 
 print("Aquí Carla Antonini presente")
 print("Acá Alfaro Romina")
-      
+print ("Aquí Daniel Varela")      
 
 num1 = float(input("Ingrese el primer numero: "))
 num2 = float(input("Ingrese el segundo numero: "))
