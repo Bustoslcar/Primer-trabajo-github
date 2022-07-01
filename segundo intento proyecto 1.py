@@ -15,13 +15,18 @@ n3 = float(input("ingrese el tercer numero:"))
 
 sum = n1 + n2 + n3
 print("la suma es: ", sum)
+
 #comentario de margarita
 
 
 
 print("Aquí Carla Antonini presente")
 print("Acá Alfaro Romina")
+#<<<<<<< HEAD
 
+#=======
+print ("Aquí Daniel Varela")
+#>>>>>>> c7a79be2068eb45f4e58ce3f1bc81c2dcca0f004
 
 num1 = float(input("Ingrese el primer numero: "))
 num2 = float(input("Ingrese el segundo numero: "))
