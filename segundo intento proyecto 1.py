@@ -21,10 +21,23 @@ print("la suma es: ", sum)
 
 print("Aquí Carla Antonini presente")
 print("Acá Alfaro Romina")
-      
+
 
 num1 = float(input("Ingrese el primer numero: "))
 num2 = float(input("Ingrese el segundo numero: "))
 resta = num1 - num2
 print("La resta es: ", resta)
 #comentario de Romina
+print("-------")
+
+def sumar(num1, num2, num3):
+    return(num1+num2+num3)
+print("La suma es :", sumar(1, 2, 3))
+
+def restar(num1, num2):
+    return(num1-num2)
+print("la resta es :", restar(10, 7))
+
+def multiplicar(num1, num2, num3):
+    return(num1*num2*num3)
+print("la multiplicacion :", multiplicar(2, 2, 2))
