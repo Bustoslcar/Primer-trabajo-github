@@ -3,12 +3,10 @@
 #Descripcion: Prueba github
 
 print("Primer programa en python")
-
-
 print("no se nada D:")
 print(" tampoco yo")
 print("vamo")
-
+___________________________________
 n1 = float(input( "Ingrese el primer numero:"))
 n2 = float(input("ingrese el segundo numero:"))
 n3 = float(input("ingrese el tercer numero:"))
@@ -17,9 +15,6 @@ sum = n1 + n2 + n3
 print("la suma es: ", sum)
 
 #comentario de margarita
-
-
-
 print("Aquí Carla Antonini presente")
 print("Acá Alfaro Romina")
 #<<<<<<< HEAD
@@ -33,10 +28,7 @@ num2 = float(input("Ingrese el segundo numero: "))
 resta = num1 - num2
 print("La resta es: ", resta)
 #comentario de Romina
-
-
-
-
+_________________________________
 print("probando funciones")
 
 def sumar(num1, num2, num3):
