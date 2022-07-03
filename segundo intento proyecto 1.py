@@ -23,6 +23,9 @@ print("Acá Alfaro Romina")
 print ("Aquí Daniel Varela")
 #>>>>>>> c7a79be2068eb45f4e58ce3f1bc81c2dcca0f004
 
+#comentario de javier
+print ("Aquí Javier Altamirano")
+
 num1 = float(input("Ingrese el primer numero: "))
 num2 = float(input("Ingrese el segundo numero: "))
 resta = num1 - num2
