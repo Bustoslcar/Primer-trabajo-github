@@ -3,6 +3,6 @@
 #Descripcion: Prueba github
  print ("integrantes del grupo")
     print ("Micaela Bustos")
-    
+    print ("Javier Altamirano")
 
 
