@@ -28,12 +28,3 @@ print("La suma es: ", suma)
 
 
 
-<<<<<<< Updated upstream
-=======
-
-
-
-
-
-
->>>>>>> Stashed changes
