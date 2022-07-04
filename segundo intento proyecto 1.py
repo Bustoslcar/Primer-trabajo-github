@@ -8,6 +8,7 @@ print("Margarita Bravo")
 print("Antonini Carla Gisele")
 print("Damian Bravo ")
 print ("Daniel Varela")
+print("sofia bravo")
 
 print ("vamos a hacer una suma")
 print("ingrese el primer número: ")
