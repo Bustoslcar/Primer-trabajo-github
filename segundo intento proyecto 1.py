@@ -9,10 +9,7 @@ print("Antonini Carla Gisele")
 print("Damian Bravo ")
 print ("Daniel Varela")
 
-
-
-
-
+print ("vamos a hacer una suma")
 print("ingrese el primer número: ")
 n1= float(input())
 print("ingrese el segundo número: ")
@@ -21,3 +18,13 @@ print ("ingrese el tercer número: ")
 n3= float(input())
 suma= n1 + n2 + n3
 print("La suma es: ", suma)
+
+print ("vamos a hacer una resta")
+print("ingrese el primer número: ")
+n1= float(input())
+print("ingrese el segundo número: ")
+n2= float(input())
+print ("ingrese el tercer número: ")
+n3= float(input())
+resta= n1 - n2 - n3
+print("La resta es: ", resta)
