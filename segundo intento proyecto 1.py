@@ -42,4 +42,4 @@ print("ingrese el segundo número: ")
 print()
 multi= n1*n2*n3*n4
 print("La multiplicacion es: ", multi)
-print ("Daniel VArela")
+
