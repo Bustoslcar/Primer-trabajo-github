@@ -7,6 +7,6 @@ Damian Raul Bavo /
 Sofia Gabriela Bravo /
 Romina Belén Alfaro /
 Javier Altamirano /
-Dani Varela /
+Daniel Varela /
 Carla Gisele Antonini / 
 <3
