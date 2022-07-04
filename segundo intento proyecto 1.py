@@ -16,7 +16,7 @@ n3 = float(input("ingrese el tercer numero:"))
 sum = n1 + n2 + n3
 print("la suma es: ", sum)
 
-#comentario de margarita
+
 
 
 
@@ -38,15 +38,8 @@ num1 = float(input("Ingrese el primer numero: "))
 num2 = float(input("Ingrese el segundo numero: "))
 resta = num1 - num2
 print("La resta es: ", resta)
-#comentario de Romina
 
 
-
-
-#<<<<<<< ramaMargarita
-
-#=======
-#>>>>>>> main
 print("probando funciones")
 
 def sumar(num1, num2, num3):
