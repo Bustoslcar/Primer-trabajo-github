@@ -29,3 +29,17 @@ resta= n1 - n2
 print("La resta es: ", resta)
 
 
+print ("vamos a hacer una multiplicacion")
+print("ingrese el primer número: ")
+n1= float(input())
+print("ingrese el segundo número: ")
+n2= float(input())
+print("ingrese el segundo número: ")
+n3= float(input())
+print("ingrese el segundo número: ")
+n4= float(input())
+print("ingrese el segundo número: ")
+print()
+multi= n1*n2*n3*n4
+print("La multiplicacion es: ", multi)
+
