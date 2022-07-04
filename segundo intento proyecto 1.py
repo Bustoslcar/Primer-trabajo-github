@@ -21,10 +21,3 @@ print ("ingrese el tercer número: ")
 n3= float(input())
 suma= n1 + n2 + n3
 print("La suma es: ", suma)
-
-
-
-
-
-
-
