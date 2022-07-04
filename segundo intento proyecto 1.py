@@ -30,12 +30,3 @@ resta= n1 - n2 - n3
 print("La resta es: ", resta)
 
 
-print ("vamos a hacer una multiplicacion")
-print("ingrese el primer número: ")
-s1= float(input())
-print("ingrese el segundo número: ")
-s2= float(input())
-print ("ingrese el tercer número: ")
-s3= float(input())
-multiplicacion= s1 + s2 + s3
-print("La multiplicacion es: ", multiplicacion)
