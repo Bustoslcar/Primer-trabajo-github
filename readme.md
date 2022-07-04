@@ -1,5 +1,5 @@
-#Trabajo practico :
-Integrantes del grupo:
+# Trabajo practico :
+### Integrantes del grupo:
 
 Carla Micaela Bustos Ludueña /
 Estela Margarita Bravo /
