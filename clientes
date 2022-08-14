@@ -1,0 +1,5 @@
+
+
+clientes = ['juan', 'mario','ariel','josefina','marianella']
+list.sort (clientes)
+print (clientes)
