@@ -1,0 +1,6 @@
+#8) Insertar un nuevo registro en la tabla historial de un perro cuyo ID Perro es igual a 10.
+
+
+INSERT INTO perros VALUES (10, 'chuwi', '2018-04-10' , 'macho', 23189987);
+
+INSERT INTO historial VALUES (28, '2022-08-13', 10,'servicios/consultas', 10000);
