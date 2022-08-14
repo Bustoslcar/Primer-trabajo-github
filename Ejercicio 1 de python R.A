@@ -1,0 +1,21 @@
+#Crear una lista en Python denominada Dueno que contenga los siguientes valores:
+# 28957346,  Juan,  Perez, 4789689,  Belgrano 101
+# Dichos datos se corresponden  con los datos del dueño de un perro (DNI, nombre, apellido, teléfono y dirección).
+
+Dueno = [28957346, "Juan", "Perez", 4789689, "Belgrano 101" ]
+
+dnidueno = 28957346 
+nombre = "Juan" 
+apellido = "Perez" 
+telefono = 4789689
+direccion = "Belgrano 101"
+
+#Muestre en pantalla el teléfono del dueño si el DNI es mayor a 26000000.
+
+dnidueno = 28957346 
+telefono = 4789689
+num1 = 26000000
+
+if dnidueno>num1:
+    print("Se muestra el telefono del dueño", telefono)
+   
