@@ -1,11 +1,13 @@
 #Autor: nd
 #Fecha: 29/06/2022
 #Descripcion: Prueba github
+
 print ("integrantes del grupo")
 print ("Micaela Bustos")
 print ("Javier Altamirano")
 print("Margarita Bravo")
 print("Antonini Carla Gisele")
+print("Romina Alfaro")
 print("Damian Bravo ")
 print ("Daniel Varela")
 print("sofia bravo")
@@ -57,6 +59,8 @@ print("La division es: ", division)
 print()
 print("Finalización de las funciones <3")
 print()
+
+
 
 
 
