@@ -1,0 +1,8 @@
+Historial= (2350, 5960, 23000, 1000, 8900)
+res = sum(list(Historial))
+for H in Historial:
+    if H > 30000:
+         print('Gastos por encima de lo presupuestado' )
+    else:
+         print(str(H))
+print('la suma de los gastos de puppy son: ' + str(res))
